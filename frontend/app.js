@@ -550,33 +550,68 @@ async function sendMessage() {
    ═══════════════════════════════════════════════════════ */
 
 async function callPlan(query) {
-    const res = await fetch(`${API_BASE}/plan`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ query, weather_city: 'Mathura' }),
-    });
-    if (!res.ok) throw new Error(`Plan failed (${res.status})`);
-    const data = await res.json();
-    currentSessionId = data.session_id;
-    return data;
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 30000);
+    try {
+        const res = await fetch(`${API_BASE}/plan`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ query, weather_city: 'Mathura' }),
+            signal: controller.signal,
+        });
+        clearTimeout(timeout);
+        if (!res.ok) {
+            const err = await res.json().catch(() => ({}));
+            throw new Error(err.detail || `Plan failed (${res.status})`);
+        }
+        const data = await res.json();
+        currentSessionId = data.session_id;
+        return data;
+    } catch (e) {
+        clearTimeout(timeout);
+        if (e.name === 'AbortError') throw new Error('Request timed out — AI models may still be loading. Try again in a moment.');
+        throw e;
+    }
 }
 
 async function callWeather(city) {
-    const res = await fetch(`${API_BASE}/weather/${encodeURIComponent(city)}`);
-    if (!res.ok) throw new Error(`Weather failed (${res.status})`);
-    return await res.json();
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 15000);
+    try {
+        const res = await fetch(`${API_BASE}/weather/${encodeURIComponent(city)}`, { signal: controller.signal });
+        clearTimeout(timeout);
+        if (!res.ok) throw new Error(`Weather failed (${res.status})`);
+        return await res.json();
+    } catch (e) {
+        clearTimeout(timeout);
+        if (e.name === 'AbortError') throw new Error('Weather request timed out.');
+        throw e;
+    }
 }
 
 async function callChat(message) {
-    const res = await fetch(`${API_BASE}/chat`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ message, history: chatHistory }),
-    });
-    if (!res.ok) throw new Error(`Chat failed (${res.status})`);
-    const data = await res.json();
-    chatHistory = data.history;
-    return data;
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 30000);
+    try {
+        const res = await fetch(`${API_BASE}/chat`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ message, history: chatHistory }),
+            signal: controller.signal,
+        });
+        clearTimeout(timeout);
+        if (!res.ok) {
+            const err = await res.json().catch(() => ({}));
+            throw new Error(err.detail || `Chat failed (${res.status})`);
+        }
+        const data = await res.json();
+        chatHistory = data.history;
+        return data;
+    } catch (e) {
+        clearTimeout(timeout);
+        if (e.name === 'AbortError') throw new Error('Request timed out — AI models may still be loading. Try again in a moment.');
+        throw e;
+    }
 }
 
 

@@ -25,6 +25,15 @@ class LLM:
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
         self.dtype = torch.float16 if self.device == "cuda" else torch.float32
 
+        # Skip loading on CPU — Mistral-7B needs ~28GB RAM and takes hours
+        if self.device == "cpu":
+            print(f"[LLM] Skipping {MODEL_NAME} on CPU (too slow). Using fallback responses.")
+            print(f"[LLM] Run on Kaggle with GPU for full LLM support.")
+            self.model = None
+            self.tokenizer = None
+            self._initialized = True
+            return
+
         print(f"[LLM] Loading {MODEL_NAME} on {self.device} ({self.dtype})...")
 
         try:
