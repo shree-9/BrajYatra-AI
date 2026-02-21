@@ -1,12 +1,17 @@
 """
 BrajYatra AI — FastAPI Backend
+Main application entry point with API endpoints for the intelligent
+Braj region travel planner.
 
-Multi-agent AI travel planner for the Braj region.
 Endpoints for itinerary generation, customization, weather, budget, and feedback.
 """
 
+import os
+import threading
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
 from pydantic import BaseModel, Field
 from typing import Optional
 import json
@@ -23,10 +28,11 @@ from core.memory_store import (
 )
 from config import LOCATIONS_PATH
 
-# ─── Initialize App ───
+# ─── App Setup ───
+
 app = FastAPI(
     title="BrajYatra AI",
-    description="Multi-agent AI travel planner for the Braj region (Mathura, Vrindavan, Agra, Gokul, Barsana, Govardhan).",
+    description="AI-powered travel planner for the sacred Braj region",
     version="1.0.0"
 )
 
@@ -35,19 +41,37 @@ app.add_middleware(
     allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
-    allow_headers=["*"]
+    allow_headers=["*"],
 )
 
-# ─── Load Orchestrator at startup ───
+# ─── Sessions ───
+
+SESSIONS_FILE = os.path.join(os.path.dirname(__file__), "data", "sessions.json")
+sessions = {}
+
 planner = None
+planner_loading = True
+
+
+def _load_orchestrator():
+    """Load orchestrator in background so server starts immediately."""
+    global planner, planner_loading
+    try:
+        print("[BrajYatra] Initializing orchestrator (background)...")
+        planner = Orchestrator()
+        print("[BrajYatra] Orchestrator ready!")
+    except Exception as e:
+        print(f"[BrajYatra] Orchestrator init failed: {e}")
+    finally:
+        planner_loading = False
 
 
 @app.on_event("startup")
 def startup():
-    global planner
-    print("[BrajYatra] Initializing orchestrator...")
-    planner = Orchestrator()
-    print("[BrajYatra] Ready!")
+    print("[BrajYatra] Server starting — loading AI models in background...")
+    thread = threading.Thread(target=_load_orchestrator, daemon=True)
+    thread.start()
+    print("[BrajYatra] Server is READY (AI models loading in background)")
 
 
 # ─── Request/Response Models ───
@@ -80,8 +104,8 @@ class ChatRequest(BaseModel):
 
 # ─── API Endpoints ───
 
-@app.get("/")
-def root():
+@app.get("/api/health")
+def health():
     return {
         "name": "BrajYatra AI",
         "version": "1.0.0",
@@ -99,6 +123,18 @@ def root():
     }
 
 
+@app.get("/")
+def serve_frontend():
+    """Serve the BrajYatra chat frontend."""
+    frontend_path = os.path.join(os.path.dirname(__file__), "frontend", "index.html")
+    return FileResponse(frontend_path, media_type="text/html")
+
+
+# Mount static files AFTER API routes so /plan, /chat etc. take priority
+frontend_dir = os.path.join(os.path.dirname(__file__), "frontend")
+app.mount("/frontend", StaticFiles(directory=frontend_dir), name="frontend")
+
+
 @app.post("/plan")
 def plan_trip(request: PlanRequest):
     """
@@ -107,6 +143,8 @@ def plan_trip(request: PlanRequest):
     """
 
     if planner is None:
+        if planner_loading:
+            raise HTTPException(status_code=503, detail="🙏 AI models are still loading. Please wait a moment and try again.")
         raise HTTPException(status_code=503, detail="Orchestrator not initialized")
 
     try:

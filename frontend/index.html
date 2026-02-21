@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BrajYatra AI — Sacred Braj Region Travel Planner</title>
+    <meta name="description"
+        content="AI-powered spiritual travel planner for the sacred Braj region — Mathura, Vrindavan, Agra, Gokul, Barsana, Govardhan. Plan your divine yatra with intelligent AI guidance.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=Noto+Serif+Devanagari:wght@400;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="/frontend/styles.css">
+</head>
+
+<body>
+
+    <!-- Audio toggle (persistent) -->
+    <button id="audioToggle" class="audio-toggle" title="Toggle bansuri music">
+        🎵
+    </button>
+
+    <!-- ═══════════════ LANDING PAGE ═══════════════ -->
+    <section id="landing" class="landing">
+        <canvas id="particleCanvas"></canvas>
+
+        <!-- Decorative rangoli corners -->
+        <div class="corner-deco top-left"></div>
+        <div class="corner-deco top-right"></div>
+        <div class="corner-deco bottom-left"></div>
+        <div class="corner-deco bottom-right"></div>
+
+        <!-- Floating lotus petals -->
+        <div class="floating-element lotus-1">🪷</div>
+        <div class="floating-element lotus-2">🪷</div>
+        <div class="floating-element lotus-3">✦</div>
+        <div class="floating-element diya-1">🪔</div>
+        <div class="floating-element diya-2">🪔</div>
+        <div class="floating-element om-1">🕉️</div>
+
+        <!-- Top saffron band -->
+        <div class="saffron-band top-band"></div>
+        <div class="saffron-band bottom-band"></div>
+
+        <div class="landing-content">
+            <div class="sanskrit-mantra">॥ श्री कृष्णं वन्दे जगद्गुरुम् ॥</div>
+
+            <div class="flute-deco">
+                <span class="flute-icon">🪈</span>
+            </div>
+
+            <h1 class="landing-title">
+                <span class="title-devanagari">ब्रज</span>
+                <span class="title-main">Braj</span><span class="title-accent">Yatra</span>
+            </h1>
+
+            <div class="title-tagline">AI-Guided Sacred Pilgrimage Planner</div>
+
+            <p class="landing-subtitle">
+                Embark on a divine journey through Lord Krishna's sacred land.<br>
+                Every temple, every ghat, every moment — planned with devotion.
+            </p>
+
+            <div class="city-list">
+                <span class="city-dot"></span> Mathura
+                <span class="city-dot"></span> Vrindavan
+                <span class="city-dot"></span> Agra
+                <span class="city-dot"></span> Gokul
+                <span class="city-dot"></span> Barsana
+                <span class="city-dot"></span> Govardhan
+            </div>
+
+            <button id="startBtn" class="start-btn">
+                <span class="btn-om">🙏</span>
+                <span class="btn-text">Begin Your Yatra</span>
+                <span class="btn-arrow">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+                        stroke-linecap="round">
+                        <path d="M5 12h14M12 5l7 7-7 7" />
+                    </svg>
+                </span>
+            </button>
+
+            <div class="landing-features">
+                <div class="feature-pill">
+                    <span class="fp-icon">🛕</span>
+                    <span>AI Itineraries</span>
+                </div>
+                <div class="feature-pill">
+                    <span class="fp-icon">📿</span>
+                    <span>100+ Sacred Sites</span>
+                </div>
+                <div class="feature-pill">
+                    <span class="fp-icon">🌤️</span>
+                    <span>Live Weather</span>
+                </div>
+                <div class="feature-pill">
+                    <span class="fp-icon">💰</span>
+                    <span>Budget Planner</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════════════ CHAT INTERFACE ═══════════════ -->
+    <section id="chatApp" class="chat-app hidden">
+        <header class="chat-header">
+            <div class="header-left">
+                <div class="header-logo">
+                    <div class="logo-avatar">🙏</div>
+                    <div class="logo-text-group">
+                        <span class="logo-name">BrajYatra</span>
+                        <span class="logo-badge">AI Guide</span>
+                    </div>
+                </div>
+            </div>
+            <div class="header-right">
+                <div class="header-mantra">॥ हरे कृष्ण ॥</div>
+                <button id="clearBtn" class="header-btn" title="New conversation">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 5v14M5 12h14" />
+                    </svg>
+                </button>
+            </div>
+        </header>
+
+        <main id="chatArea" class="chat-area"></main>
+
+        <footer class="chat-footer">
+            <div class="input-wrapper">
+                <textarea id="chatInput" class="chat-input"
+                    placeholder="🙏 Plan a spiritual yatra to Mathura and Vrindavan..." rows="1"
+                    autocomplete="off"></textarea>
+                <button id="sendBtn" class="send-btn" disabled>
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+                        stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M22 2L11 13" />
+                        <path d="M22 2L15 22L11 13L2 9L22 2Z" />
+                    </svg>
+                </button>
+            </div>
+            <div class="input-hint">
+                🙏 Jai Shri Krishna · Ask about sacred places, darshan timings, yatra routes, or budgets
+            </div>
+        </footer>
+    </section>
+
+    <script src="/frontend/app.js"></script>
+</body>
+
+</html>
