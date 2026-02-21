@@ -1,0 +1,18 @@
+# Core
+transformers
+accelerate
+torch
+sentence-transformers
+faiss-cpu
+
+# API
+fastapi
+uvicorn[standard]
+pydantic
+
+# Utilities
+requests
+networkx
+ortools
+scikit-learn
+numpy
