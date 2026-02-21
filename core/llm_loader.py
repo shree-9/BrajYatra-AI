@@ -56,16 +56,28 @@ class LLM:
             return self._fallback_response(prompt)
 
         try:
-            messages = [{"role": "user", "content": prompt}]
+            # Try chat template first (Mistral-style)
+            try:
+                messages = [{"role": "user", "content": prompt}]
+                inputs = self.tokenizer.apply_chat_template(
+                    messages,
+                    return_tensors="pt",
+                    add_generation_prompt=True
+                )
+                if isinstance(inputs, torch.Tensor):
+                    input_ids = inputs.to(self.device)
+                else:
+                    input_ids = inputs["input_ids"].to(self.device)
+            except Exception:
+                # Fallback: direct tokenization
+                encoded = self.tokenizer(prompt, return_tensors="pt")
+                input_ids = encoded["input_ids"].to(self.device)
 
-            inputs = self.tokenizer.apply_chat_template(
-                messages,
-                return_tensors="pt"
-            ).to(self.device)
+            input_len = input_ids.shape[-1]
 
             with torch.no_grad():
                 outputs = self.model.generate(
-                    inputs,
+                    input_ids,
                     max_new_tokens=max_tokens,
                     temperature=0.7,
                     top_p=0.9,
@@ -74,7 +86,7 @@ class LLM:
                 )
 
             # Decode only the NEW tokens (skip the input prompt tokens)
-            new_tokens = outputs[0][inputs.shape[-1]:]
+            new_tokens = outputs[0][input_len:]
             response = self.tokenizer.decode(new_tokens, skip_special_tokens=True)
 
             return response.strip()
