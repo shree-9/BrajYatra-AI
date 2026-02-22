@@ -1,6 +1,7 @@
 """
 Weather Agent — fetches real weather data from OpenWeather API
 and filters locations based on weather conditions.
+Supports multi-city weather and weather alerts.
 """
 
 import requests
@@ -52,6 +53,63 @@ def fetch_weather(city="Mathura"):
         return None
 
 
+def fetch_weather_multi(cities):
+    """
+    Fetch weather for multiple cities.
+
+    Returns:
+        dict of {city_name: weather_data}
+    """
+    result = {}
+    for city in cities:
+        w = fetch_weather(city)
+        if w:
+            result[city] = w
+    return result
+
+
+def get_weather_alerts(cities):
+    """
+    Check weather for all cities and generate alerts if conditions
+    are adverse (rain, extreme heat, storms).
+
+    Returns:
+        list of alert dicts: [{city, alert_type, message, suggestion}]
+    """
+    alerts = []
+    weather_data = fetch_weather_multi(cities)
+
+    for city, w in weather_data.items():
+        if w.get("is_rainy"):
+            alerts.append({
+                "city": city,
+                "alert_type": "rain",
+                "severity": "warning" if w["condition"] == "Thunderstorm" else "info",
+                "message": f"🌧️ Rain ({w['description']}) expected in {city}. Current: {w['temperature']}°C.",
+                "suggestion": f"Consider visiting indoor places in {city} — temples, museums, and restaurants are good options."
+            })
+
+        if w.get("is_extreme_heat"):
+            alerts.append({
+                "city": city,
+                "alert_type": "heat",
+                "severity": "warning",
+                "message": f"🔥 Extreme heat ({w['temperature']}°C) in {city}! Feels like {w['feels_like']}°C.",
+                "suggestion": f"Visit indoor/AC places in {city}. Carry water and sunscreen. Avoid outdoor sites between 11 AM - 3 PM."
+            })
+
+        if w.get("is_cold"):
+            alerts.append({
+                "city": city,
+                "alert_type": "cold",
+                "severity": "info",
+                "message": f"❄️ Cold weather ({w['temperature']}°C) in {city}. Bundle up!",
+                "suggestion": f"Carry warm clothes. Morning fog may reduce visibility at open sites."
+            })
+
+    return alerts, weather_data
+
+
 def apply_weather_filter(locations, intent, weather=None):
     """
     Filter locations based on weather conditions and user preferences.
@@ -61,27 +119,46 @@ def apply_weather_filter(locations, intent, weather=None):
     """
 
     if intent.get("prefer_indoor"):
-        locations = [
+        indoor = [
             loc for loc in locations
             if loc.get("weather_sensitivity", {}).get("is_indoor", False)
         ]
-        return locations
+        return indoor if indoor else locations
 
     if weather is None:
         return locations
 
+    # Handle multi-city weather (dict of city → weather)
+    if isinstance(weather, dict) and "city" not in weather:
+        # Multi-city: apply per-city
+        filtered = []
+        for loc in locations:
+            loc_city = loc.get("location", {}).get("city", "")
+            city_weather = weather.get(loc_city)
+            if city_weather:
+                if _passes_weather(loc, city_weather):
+                    filtered.append(loc)
+            else:
+                filtered.append(loc)  # No weather data = keep
+        return filtered if filtered else locations
+
+    # Single-city weather
     filtered = []
     for loc in locations:
-        sensitivity = loc.get("weather_sensitivity", {})
+        if _passes_weather(loc, weather):
+            filtered.append(loc)
 
-        # Skip outdoor places if it's raining and they should be avoided in rain
-        if weather["is_rainy"] and sensitivity.get("avoid_in_rain", False):
-            continue
+    return filtered if filtered else locations
 
-        # Skip outdoor places in extreme heat
-        if weather["is_extreme_heat"] and sensitivity.get("avoid_in_extreme_heat", False):
-            continue
 
-        filtered.append(loc)
+def _passes_weather(loc, weather):
+    """Check if a location passes weather filter."""
+    sensitivity = loc.get("weather_sensitivity", {})
 
-    return filtered if filtered else locations  # Fallback: return all if filter too aggressive
+    if weather.get("is_rainy") and sensitivity.get("avoid_in_rain", False):
+        return False
+
+    if weather.get("is_extreme_heat") and sensitivity.get("avoid_in_extreme_heat", False):
+        return False
+
+    return True

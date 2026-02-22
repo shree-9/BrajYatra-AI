@@ -627,6 +627,18 @@ function renderResponse(type, data) {
 
 function renderPlanResponse(data) {
     let html = '';
+
+    // Weather alerts (if any)
+    if (data.weather_alerts && data.weather_alerts.length > 0) {
+        for (const alert of data.weather_alerts) {
+            const alertClass = alert.severity === 'warning' ? 'alert-warning' : 'alert-info';
+            html += `<div class="weather-alert ${alertClass}">
+                <div class="alert-message">${alert.message}</div>
+                <div class="alert-suggestion">💡 ${alert.suggestion}</div>
+            </div>`;
+        }
+    }
+
     if (data.explanation) {
         html += `<div class="explanation-card">
             <div class="label">🙏 About Your Yatra</div>
@@ -634,7 +646,19 @@ function renderPlanResponse(data) {
         </div>`;
     }
     if (data.itinerary) html += renderItinerary(data.itinerary);
-    if (data.weather) html += renderWeatherCard(data.weather);
+
+    // Multi-city weather
+    if (data.weather) {
+        if (typeof data.weather === 'object' && !data.weather.city) {
+            // Multi-city weather dict
+            for (const [city, w] of Object.entries(data.weather)) {
+                html += renderWeatherCard(w);
+            }
+        } else {
+            html += renderWeatherCard(data.weather);
+        }
+    }
+
     if (data.budget) html += renderBudgetCard(data.budget);
 
     if (!html) html = '🙏 Your yatra has been planned! Check the details above.';
@@ -645,36 +669,68 @@ function renderItinerary(itinerary) {
     let days = '';
     for (const [day, activities] of Object.entries(itinerary)) {
         let items = '';
+        let mapsUrl = null;
+        let dayCities = new Set();
+
         for (const act of activities) {
             const cat = act.category || '';
             const city = act.city || '';
+            const isLunch = act.type === 'lunch_break';
+            dayCities.add(city);
+
+            // Capture maps URL from first item
+            if (act.maps_route_url) mapsUrl = act.maps_route_url;
+
             let emoji = '📍';
-            if (/food|restaurant/i.test(cat)) emoji = '🍽️';
+            if (isLunch || /food|restaurant/i.test(cat)) emoji = '🍽️';
             else if (/temple|spiritual|mandir/i.test(cat)) emoji = '🛕';
             else if (/heritage|fort|monument/i.test(cat)) emoji = '🏰';
             else if (/garden|park|nature/i.test(cat)) emoji = '🌳';
             else if (/market|shop/i.test(cat)) emoji = '🛍️';
             else if (/ghat|river/i.test(cat)) emoji = '🏞️';
             else if (/hotel|stay/i.test(cat)) emoji = '🏨';
+            else if (/museum/i.test(cat)) emoji = '🏛️';
+            else if (/mosque/i.test(cat)) emoji = '🕌';
+
+            // Entry fee + booking link
+            let feeHtml = '';
+            if (act.entry_fee && act.entry_fee > 0) {
+                feeHtml = `<span class="entry-fee">🎫 ₹${act.entry_fee}</span>`;
+                if (act.booking_url) {
+                    feeHtml += ` <a href="${act.booking_url}" target="_blank" class="ticket-link">Buy Ticket ↗</a>`;
+                }
+            } else if (!isLunch) {
+                feeHtml = `<span class="entry-free">🎫 Free</span>`;
+            }
+
+            const lunchClass = isLunch ? ' lunch-break' : '';
 
             items += `
-                <div class="place-item">
+                <div class="place-item${lunchClass}">
                     <div class="place-time">${escapeHtml(act.start || '')} – ${escapeHtml(act.end || '')}</div>
                     <div class="place-info">
-                        <div class="place-name">${emoji} ${escapeHtml(act.place || '')}</div>
+                        <div class="place-name">${emoji} ${escapeHtml(act.place || '')}${isLunch ? ' <span class="lunch-tag">Lunch</span>' : ''}</div>
                         <div class="place-meta">
                             ${cat ? `<span>${escapeHtml(cat)}</span>` : ''}
                             ${city ? `<span>${escapeHtml(city)}</span>` : ''}
                             ${act.duration_minutes ? `<span>${act.duration_minutes} min</span>` : ''}
+                            ${feeHtml}
                         </div>
                     </div>
                 </div>
             `;
         }
+
+        const cityList = [...dayCities].join(' + ');
+        const mapsBtn = mapsUrl
+            ? `<a href="${mapsUrl}" target="_blank" class="maps-route-btn">🗺️ Open Route in Maps</a>`
+            : '';
+
         days += `
             <div class="day-section">
-                <div class="day-label">📅 ${escapeHtml(day)}</div>
+                <div class="day-label">📅 ${escapeHtml(day)} — ${escapeHtml(cityList)}</div>
                 ${items}
+                ${mapsBtn}
             </div>
         `;
     }

@@ -8,7 +8,7 @@ from config import LOCATIONS_PATH
 from agents.constraint_agent import parse_intent
 from agents.semantic_agent import SemanticAgent
 from agents.scoring_agent import score_location
-from agents.weather_agent import apply_weather_filter, fetch_weather
+from agents.weather_agent import apply_weather_filter, fetch_weather, fetch_weather_multi, get_weather_alerts
 from agents.diversity_agent import enforce_diversity
 from agents.planner_agent import distribute_across_days
 from agents.routing_agent import optimize_route
@@ -26,10 +26,11 @@ class Orchestrator:
     2. Semantic search for relevant locations (SemanticAgent)
     3. Filter by city, theme, weather, accessibility
     4. Score and rank locations (ScoringAgent + CrowdAgent)
-    5. Enforce diversity across categories
+    5. Enforce diversity across categories AND cities
     6. Optimize route within each day (RoutingAgent)
-    7. Schedule time slots (SchedulerAgent)
-    8. Distribute across days (PlannerAgent)
+    7. Schedule time slots with lunch breaks (SchedulerAgent)
+    8. Distribute across days by city (PlannerAgent)
+    9. Generate Google Maps route + weather alerts
     """
 
     def __init__(self, data_path=None):
@@ -49,27 +50,70 @@ class Orchestrator:
         Generate a complete trip itinerary from a natural language query.
 
         Returns:
-            dict with keys: intent, itinerary, weather, locations_used
+            dict with keys: intent, itinerary, weather, weather_alerts,
+                           locations_used, budget
         """
 
         # Step 1: Parse intent from user query
         intent = parse_intent(query)
         print(f"[Orchestrator] Intent: {json.dumps(intent, indent=2)}")
 
-        # Step 2: Semantic search for relevant locations
-        candidates = self.semantic.search(query, k=25)
+        cities = intent.get("cities", [])
+
+        # Step 2: Semantic search — get more candidates for better selection
+        candidates = self.semantic.search(query, k=60)
 
         # Step 3: Apply filters
-        # 3a: City filter
-        if intent.get("cities"):
-            filtered = filter_by_city(candidates, intent["cities"])
+
+        # 3a: City filter — if user specified cities, filter but ensure we
+        #     have enough from each city
+        if cities:
+            filtered = filter_by_city(candidates, cities)
             if filtered:
                 candidates = filtered
+            else:
+                # If semantic search missed the cities, pull from full DB
+                candidates = filter_by_city(self.locations, cities)
 
-        # 3b: Theme filter
+            # Guarantee at least 5 non-food locations per city
+            min_per_city_needed = 5
+            candidate_ids = {c["id"] for c in candidates}
+            for city in cities:
+                city_count = sum(
+                    1 for c in candidates
+                    if (c.get("location", {}).get("city", "") == city
+                        and c.get("category", "") not in ("Restaurant", "Food Stall", "Hotel"))
+                )
+                if city_count < min_per_city_needed:
+                    # Pull more from full DB for this city
+                    for loc in self.locations:
+                        if (loc["id"] not in candidate_ids
+                                and loc.get("location", {}).get("city", "") == city
+                                and loc.get("category", "") not in ("Restaurant", "Food Stall", "Hotel")):
+                            candidates.append(loc)
+                            candidate_ids.add(loc["id"])
+                            city_count += 1
+                            if city_count >= min_per_city_needed:
+                                break
+
+        # 3b: Theme filter — only apply if every city retains enough locations
         if intent.get("themes"):
             filtered = filter_by_theme(candidates, intent["themes"])
-            if filtered:
+            # Only use theme filter if each city still has at least 4 sightseeing spots
+            if cities:
+                city_ok = True
+                for city in cities:
+                    city_sights = sum(
+                        1 for c in filtered
+                        if (c.get("location", {}).get("city", "") == city
+                            and c.get("category", "") not in ("Restaurant", "Food Stall", "Hotel"))
+                    )
+                    if city_sights < 4:
+                        city_ok = False
+                        break
+                if city_ok:
+                    candidates = filtered
+            elif len(filtered) >= 8:
                 candidates = filtered
 
         # 3c: Accessibility filter
@@ -77,9 +121,17 @@ class Orchestrator:
         if filtered:
             candidates = filtered
 
-        # 3d: Weather filter
-        weather = fetch_weather(weather_city)
-        candidates = apply_weather_filter(candidates, intent, weather)
+        # 3d: Weather — fetch for ALL cities (not just one)
+        weather_cities = cities if cities else [weather_city]
+        weather_data = fetch_weather_multi(weather_cities)
+        weather_alerts = []
+
+        if weather_data:
+            candidates = apply_weather_filter(candidates, intent, weather_data)
+
+            # Get alerts
+            alerts, _ = get_weather_alerts(weather_cities)
+            weather_alerts = alerts
 
         # Step 4: Score and rank
         weights = load_weights()
@@ -89,29 +141,67 @@ class Orchestrator:
             reverse=True
         )
 
-        # Step 5: Enforce diversity
-        diverse = enforce_diversity(ranked, max_per_category=2)
+        # Step 5: Enforce diversity — both category AND city balanced
+        days = intent.get("days", 2)
+        diverse = enforce_diversity(
+            ranked,
+            max_per_category=4,
+            cities=cities,
+            min_per_city=max(4, days * 2)  # At least 4 per city for full-day
+        )
 
         # Step 6: Determine how many locations we need
-        days = intent.get("days", 2)
-        max_per_day = 5
+        max_per_day = 7
         total_needed = min(len(diverse), days * max_per_day)
         selected = diverse[:total_needed]
 
         # Step 7: Optimize route within city groups
-        optimized = optimize_route(selected)
+        # Group by city, optimize each group separately
+        city_groups = {}
+        for loc in selected:
+            city = loc.get("location", {}).get("city", "Unknown")
+            city_groups.setdefault(city, []).append(loc)
 
-        # Step 8: Distribute across days and schedule
-        itinerary = distribute_across_days(optimized, days)
+        optimized = []
+        for city_locs in city_groups.values():
+            optimized.extend(optimize_route(city_locs))
+
+        # Step 8: Distribute across days (city-aware) and schedule
+        itinerary = distribute_across_days(optimized, days, cities=cities)
+
+        # Build weather response — single city or multi-city
+        if len(weather_data) == 1:
+            weather_response = list(weather_data.values())[0]
+        else:
+            weather_response = weather_data
 
         return {
             "intent": intent,
             "itinerary": itinerary,
-            "weather": weather,
+            "weather": weather_response,
+            "weather_alerts": weather_alerts,
             "locations_used": [
-                {"id": loc["id"], "name": loc["name"], "city": loc.get("location", {}).get("city", "")}
+                {
+                    "id": loc["id"],
+                    "name": loc["name"],
+                    "city": loc.get("location", {}).get("city", ""),
+                    "entry_fee": loc.get("pricing", {}).get("entry_fee", {}),
+                    "booking_url": loc.get("pricing", {}).get("booking_url")
+                }
                 for loc in selected
             ]
+        }
+
+    def get_weather_check(self, cities):
+        """
+        Quick weather check for chat messages — returns alerts if any.
+        """
+        if not cities:
+            cities = ["Mathura", "Vrindavan"]
+        alerts, weather_data = get_weather_alerts(cities)
+        return {
+            "weather": weather_data,
+            "alerts": alerts
         }
 
     def customize_itinerary(self, itinerary, action, params):
@@ -165,7 +255,6 @@ class Orchestrator:
                 new_loc = self._location_map[new_place_id]
                 day_locs = self._get_locations_for_day(itinerary[day])
 
-                # Replace the old location
                 day_locs = [
                     new_loc if loc["name"] == old_place else loc
                     for loc in day_locs
@@ -182,7 +271,6 @@ class Orchestrator:
             if day in itinerary:
                 day_locs = self._get_locations_for_day(itinerary[day])
 
-                # Find and move the location
                 target = None
                 remaining = []
                 for loc in day_locs:

@@ -34,7 +34,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "High",
@@ -127,7 +128,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Medium",
@@ -220,7 +222,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Low",
@@ -313,7 +316,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Medium",
@@ -406,7 +410,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Medium",
@@ -499,7 +504,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "High",
@@ -592,7 +598,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "High",
@@ -685,7 +692,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Medium",
@@ -778,7 +786,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Medium",
@@ -871,7 +880,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Low",
@@ -964,7 +974,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "High",
@@ -1057,7 +1068,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Medium",
@@ -1150,7 +1162,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Medium",
@@ -1243,7 +1256,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Low",
@@ -1336,7 +1350,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Medium",
@@ -1429,7 +1444,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "High",
@@ -1522,7 +1538,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "High",
@@ -1615,7 +1632,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Medium",
@@ -1708,7 +1726,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Medium",
@@ -1801,7 +1820,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Medium",
@@ -1894,7 +1914,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Medium",
@@ -1987,7 +2008,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Low",
@@ -2080,7 +2102,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Low",
@@ -2173,7 +2196,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Medium",
@@ -2266,7 +2290,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "High",
@@ -2359,7 +2384,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Low",
@@ -2452,7 +2478,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Medium",
@@ -2545,7 +2572,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 150
+      "avg_additional_expense": 150,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "High",
@@ -2642,7 +2670,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 300
+      "avg_additional_expense": 300,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Medium",
@@ -2736,7 +2765,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 100
+      "avg_additional_expense": 100,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "High",
@@ -2829,7 +2859,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Medium",
@@ -2924,7 +2955,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 80
+      "avg_additional_expense": 80,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "High",
@@ -3018,7 +3050,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 250
+      "avg_additional_expense": 250,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Medium",
@@ -3112,7 +3145,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 200
+      "avg_additional_expense": 200,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "High",
@@ -3208,7 +3242,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 400
+      "avg_additional_expense": 400,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Medium",
@@ -3300,7 +3335,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 120
+      "avg_additional_expense": 120,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "High",
@@ -3393,7 +3429,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 100
+      "avg_additional_expense": 100,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Low",
@@ -3487,7 +3524,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 80
+      "avg_additional_expense": 80,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Medium",
@@ -3581,7 +3619,8 @@
       "avg_additional_expense": 800,
       "per_night_low": 500,
       "per_night_moderate": 1000,
-      "per_night_high": 2000
+      "per_night_high": 2000,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Medium",
@@ -3676,7 +3715,8 @@
       "avg_additional_expense": 1200,
       "per_night_low": 600,
       "per_night_moderate": 1500,
-      "per_night_high": 3000
+      "per_night_high": 3000,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Medium",
@@ -3770,7 +3810,8 @@
       "avg_additional_expense": 400,
       "per_night_low": 300,
       "per_night_moderate": 600,
-      "per_night_high": 1000
+      "per_night_high": 1000,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "High",
@@ -3864,7 +3905,8 @@
       "avg_additional_expense": 5000,
       "per_night_low": 3000,
       "per_night_moderate": 5000,
-      "per_night_high": 10000
+      "per_night_high": 10000,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Low",
@@ -3960,7 +4002,8 @@
       "avg_additional_expense": 3000,
       "per_night_low": 2000,
       "per_night_moderate": 3500,
-      "per_night_high": 6000
+      "per_night_high": 6000,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Low",
@@ -4053,7 +4096,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 300
+      "avg_additional_expense": 300,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "High",
@@ -4114,100 +4158,6 @@
     }
   },
   {
-    "id": 50,
-    "name": "Loi Bazaar Vrindavan",
-    "category": "Market",
-    "description": "Colorful shopping street near Bankey Bihari with religious souvenirs, bangles, and flutes.",
-    "location": {
-      "address": "Near Bankey Bihari Temple, Vrindavan",
-      "city": "Vrindavan",
-      "state": "Uttar Pradesh",
-      "country": "India",
-      "coordinates": {
-        "lat": 27.571,
-        "lng": 77.701
-      }
-    },
-    "operational_info": {
-      "opening_hours": {
-        "daily": "09:00-20:00"
-      },
-      "avg_visit_duration_minutes": 45,
-      "best_visit_time": [
-        "Afternoon",
-        "Evening"
-      ],
-      "peak_hours": [
-        "16:00-19:00"
-      ],
-      "closed_on": []
-    },
-    "pricing": {
-      "entry_fee": {
-        "Indians": 0,
-        "Foreigners": 0,
-        "Children": 0
-      },
-      "avg_additional_expense": 250
-    },
-    "crowd_data": {
-      "base_crowd_level": "High",
-      "weekend_multiplier": 1.5,
-      "festival_multiplier": 2.0,
-      "seasonal_variation": {
-        "Winter": "High",
-        "Summer": "Medium",
-        "Monsoon": "Low"
-      }
-    },
-    "weather_sensitivity": {
-      "is_indoor": false,
-      "is_outdoor": true,
-      "avoid_in_rain": true,
-      "avoid_in_extreme_heat": true
-    },
-    "visitor_profile_fit": {
-      "senior_friendly": true,
-      "wheelchair_accessible": false,
-      "child_friendly": true,
-      "recommended_for": [
-        "Shopping",
-        "Exploration"
-      ],
-      "physical_intensity_level": "Low"
-    },
-    "facilities": {
-      "restrooms": false,
-      "parking": false,
-      "food_available": true,
-      "guided_tours": false,
-      "locker_facility": false
-    },
-    "spiritual_metadata": {
-      "religion": "None",
-      "significance_level": 1,
-      "ritual_time_specific": false
-    },
-    "nearby_context": {
-      "transport_hub_nearby": false,
-      "market_nearby": true,
-      "recommended_buffer_time_minutes": 10
-    },
-    "ratings": {
-      "overall_rating": 4.0,
-      "review_count": 4000
-    },
-    "embedding_metadata": {
-      "tags": [
-        "Market",
-        "Shopping",
-        "Vrindavan",
-        "Bangles",
-        "Souvenirs"
-      ]
-    }
-  },
-  {
     "id": 51,
     "name": "Sadar Bazaar Agra",
     "category": "Market",
@@ -4241,7 +4191,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 500
+      "avg_additional_expense": 500,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "High",
@@ -4335,7 +4286,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 60
+      "avg_additional_expense": 60,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Medium",
@@ -4431,7 +4383,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 350
+      "avg_additional_expense": 350,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Medium",
@@ -4527,7 +4480,8 @@
         "Foreigners": 0,
         "Children": 0
       },
-      "avg_additional_expense": 500
+      "avg_additional_expense": 500,
+      "booking_url": null
     },
     "crowd_data": {
       "base_crowd_level": "Medium",
@@ -4582,6 +4536,5614 @@
         "Agra",
         "Multi-Cuisine",
         "Family"
+      ]
+    }
+  },
+  {
+    "id": 55,
+    "name": "Shri Krishna Janmasthan Temple",
+    "category": "Hindu Temple",
+    "description": "The birthplace of Lord Krishna, one of the holiest sites in Hinduism. The temple complex includes the prison cell where Krishna was born.",
+    "location": {
+      "address": "Mathura",
+      "city": "Mathura",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.5046,
+        "lng": 77.6838
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 90,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "High",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "High",
+        "Summer": "Medium",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual",
+        "Heritage"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 5,
+      "ritual_time_specific": true
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.5,
+      "review_count": 5000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Temple",
+        "Mathura",
+        "Krishna",
+        "Birthplace"
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "name": "Dwarkadhish Temple",
+    "category": "Hindu Temple",
+    "description": "A magnificent temple dedicated to Lord Krishna as the King of Dwarka. Famous for its intricate carvings and Rajasthani architecture.",
+    "location": {
+      "address": "Mathura",
+      "city": "Mathura",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.5066,
+        "lng": 77.6862
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 60,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "High",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "High",
+        "Summer": "Medium",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual",
+        "Heritage"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 5,
+      "ritual_time_specific": true
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.5,
+      "review_count": 5000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Temple",
+        "Mathura",
+        "Krishna",
+        "Architecture"
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "name": "Vishram Ghat",
+    "category": "Spiritual Site",
+    "description": "The most sacred ghat on the Yamuna in Mathura, where Lord Krishna is said to have rested after slaying Kansa. Evening aarti is spectacular.",
+    "location": {
+      "address": "Mathura",
+      "city": "Mathura",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.5056,
+        "lng": 77.6875
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 60,
+      "best_visit_time": [
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "High",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "High",
+        "Summer": "Medium",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": true,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual",
+        "Nature"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 5,
+      "ritual_time_specific": true
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.5,
+      "review_count": 5000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Ghat",
+        "Mathura",
+        "Yamuna",
+        "Aarti"
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "name": "Potara Kund",
+    "category": "Heritage Site",
+    "description": "Ancient stepped tank near Krishna Janmasthan where baby Krishna's clothes were washed. A serene architectural marvel.",
+    "location": {
+      "address": "Mathura",
+      "city": "Mathura",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.5035,
+        "lng": 77.683
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 30,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Heritage",
+        "Exploration"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 3,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.1,
+      "review_count": 3000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Heritage",
+        "Mathura",
+        "Tank",
+        "Ancient"
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "name": "Government Museum Mathura",
+    "category": "Museum",
+    "description": "One of India's finest museums with sculptures from the Kushan and Gupta periods. Houses exquisite Mathura school of art pieces.",
+    "location": {
+      "address": "Mathura",
+      "city": "Mathura",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.4968,
+        "lng": 77.6734
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "10:30-16:30"
+      },
+      "avg_visit_duration_minutes": 90,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": [
+        "Monday"
+      ]
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 20,
+        "Foreigners": 200,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Heritage",
+        "Exploration"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 4,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.3,
+      "review_count": 4000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Museum",
+        "Mathura",
+        "Art",
+        "History"
+      ]
+    }
+  },
+  {
+    "id": 60,
+    "name": "Kusum Sarovar",
+    "category": "Spiritual Site",
+    "description": "A beautiful stepped water tank surrounded by ancient cenotaphs. Associated with Radha's collection of flowers for Krishna.",
+    "location": {
+      "address": "Mathura",
+      "city": "Mathura",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.585,
+        "lng": 77.4528
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 45,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": true,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual",
+        "Heritage",
+        "Nature"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 4,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.3,
+      "review_count": 4000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Sarovar",
+        "Mathura",
+        "Radha",
+        "Nature"
+      ]
+    }
+  },
+  {
+    "id": 61,
+    "name": "Rangji Temple",
+    "category": "Hindu Temple",
+    "description": "A unique temple blending South Indian and Mughal architectural styles. Features a stunning 50-foot tall gopuram.",
+    "location": {
+      "address": "Mathura",
+      "city": "Mathura",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.5032,
+        "lng": 77.679
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 45,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Medium",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Medium",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual",
+        "Heritage"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 3,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.1,
+      "review_count": 3000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Temple",
+        "Mathura",
+        "Architecture",
+        "South Indian"
+      ]
+    }
+  },
+  {
+    "id": 62,
+    "name": "Kans Qila (Kansa Fort)",
+    "category": "Fort",
+    "description": "An ancient fort overlooking the Yamuna, believed to be the palace of the tyrant king Kansa. Offers panoramic views of the river.",
+    "location": {
+      "address": "Mathura",
+      "city": "Mathura",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.5072,
+        "lng": 77.688
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 45,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": true,
+      "avoid_in_extreme_heat": true
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Heritage",
+        "Exploration"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 3,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.1,
+      "review_count": 3000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Fort",
+        "Mathura",
+        "Kansa",
+        "Views"
+      ]
+    }
+  },
+  {
+    "id": 63,
+    "name": "Gita Mandir",
+    "category": "Hindu Temple",
+    "description": "Modern temple with the entire Bhagavad Gita inscribed on its walls. Also houses a depiction of all 24 avatars of Vishnu.",
+    "location": {
+      "address": "Mathura",
+      "city": "Mathura",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.4785,
+        "lng": 77.6633
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 40,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 3,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.1,
+      "review_count": 3000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Temple",
+        "Mathura",
+        "Gita",
+        "Vishnu"
+      ]
+    }
+  },
+  {
+    "id": 64,
+    "name": "Brijwasi Mithai Wala",
+    "category": "Restaurant",
+    "description": "Iconic Mathura sweet shop famous for its pedas, kachori, and lassi. A must-visit for authentic Braj cuisine.",
+    "location": {
+      "address": "Mathura",
+      "city": "Mathura",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.505,
+        "lng": 77.6845
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "08:00-21:00"
+      },
+      "avg_visit_duration_minutes": 30,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 150,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Medium",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Medium",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Food",
+        "Exploration"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "None",
+      "significance_level": 2,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 3.9,
+      "review_count": 2000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Restaurant",
+        "Mathura",
+        "Peda",
+        "Sweets"
+      ]
+    }
+  },
+  {
+    "id": 65,
+    "name": "Mathura Chaat Gali",
+    "category": "Food Stall",
+    "description": "Famous street food lane near Vishram Ghat serving Mathura's legendary chaat, kachori, jalebi, and dahi vada.",
+    "location": {
+      "address": "Mathura",
+      "city": "Mathura",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.5048,
+        "lng": 77.686
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "09:00-21:00"
+      },
+      "avg_visit_duration_minutes": 30,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Medium",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Medium",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Food",
+        "Exploration"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "None",
+      "significance_level": 2,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 3.9,
+      "review_count": 2000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Food",
+        "Mathura",
+        "Chaat",
+        "Street Food"
+      ]
+    }
+  },
+  {
+    "id": 66,
+    "name": "Hotel Brijwasi Royal",
+    "category": "Hotel",
+    "description": "Popular mid-range hotel near the city center with AC rooms, restaurant, and parking. Good base for Mathura-Vrindavan tour.",
+    "location": {
+      "address": "Mathura",
+      "city": "Mathura",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.492,
+        "lng": 77.673
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "24 hours"
+      },
+      "avg_visit_duration_minutes": 0,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 1500,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Exploration"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "None",
+      "significance_level": 1,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 3.7,
+      "review_count": 1000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Hotel",
+        "Mathura",
+        "Stay"
+      ]
+    }
+  },
+  {
+    "id": 67,
+    "name": "Yamuna Aarti Point",
+    "category": "Spiritual Site",
+    "description": "The main aarti point on the Yamuna at Vishram Ghat. The evening aarti with hundreds of diyas floating is mesmerizing.",
+    "location": {
+      "address": "Mathura",
+      "city": "Mathura",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.5058,
+        "lng": 77.6878
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 45,
+      "best_visit_time": [
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "High",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "High",
+        "Summer": "Medium",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": true,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 4,
+      "ritual_time_specific": true
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.3,
+      "review_count": 4000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Aarti",
+        "Mathura",
+        "Yamuna",
+        "Evening"
+      ]
+    }
+  },
+  {
+    "id": 68,
+    "name": "Dauji Temple",
+    "category": "Hindu Temple",
+    "description": "Ancient temple dedicated to Balarama (Krishna's elder brother). Famous for the Huranga Holi celebration.",
+    "location": {
+      "address": "Mathura",
+      "city": "Mathura",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.4533,
+        "lng": 77.7833
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 45,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual",
+        "Heritage"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 3,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.1,
+      "review_count": 3000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Temple",
+        "Mathura",
+        "Balarama",
+        "Dauji"
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "name": "Keshav Dev Temple",
+    "category": "Hindu Temple",
+    "description": "Temple within the Krishna Janmasthan complex, built on the original site of Krishna's birth. Deeply spiritual atmosphere.",
+    "location": {
+      "address": "Mathura",
+      "city": "Mathura",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.5048,
+        "lng": 77.684
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 45,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "High",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "High",
+        "Summer": "Medium",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 5,
+      "ritual_time_specific": true
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.5,
+      "review_count": 5000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Temple",
+        "Mathura",
+        "Krishna",
+        "Sacred"
+      ]
+    }
+  },
+  {
+    "id": 70,
+    "name": "Banke Bihari Temple",
+    "category": "Hindu Temple",
+    "description": "The most popular temple in Vrindavan, famous for the enchanting deity of Krishna in his tribhangi pose. Known for its unique darshan style.",
+    "location": {
+      "address": "Vrindavan",
+      "city": "Vrindavan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.579,
+        "lng": 77.692
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 60,
+      "best_visit_time": [
+        "Morning"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "High",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "High",
+        "Summer": "Medium",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 5,
+      "ritual_time_specific": true
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.5,
+      "review_count": 5000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Temple",
+        "Vrindavan",
+        "Krishna",
+        "Banke Bihari"
+      ]
+    }
+  },
+  {
+    "id": 71,
+    "name": "ISKCON Vrindavan (Krishna Balaram Mandir)",
+    "category": "Hindu Temple",
+    "description": "The international headquarters of ISKCON in Vrindavan. Beautiful marble temple with devotional programs throughout the day.",
+    "location": {
+      "address": "Vrindavan",
+      "city": "Vrindavan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.5835,
+        "lng": 77.687
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 90,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "High",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "High",
+        "Summer": "Medium",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual",
+        "Heritage"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 5,
+      "ritual_time_specific": true
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.5,
+      "review_count": 5000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Temple",
+        "Vrindavan",
+        "ISKCON",
+        "Krishna"
+      ]
+    }
+  },
+  {
+    "id": 72,
+    "name": "Prem Mandir",
+    "category": "Hindu Temple",
+    "description": "A stunning white marble temple illuminated at night. Depicts scenes of Krishna's leelas with Radha. Musical fountain show in evening.",
+    "location": {
+      "address": "Vrindavan",
+      "city": "Vrindavan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.5862,
+        "lng": 77.6789
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 60,
+      "best_visit_time": [
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "High",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "High",
+        "Summer": "Medium",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual",
+        "Heritage"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 5,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.5,
+      "review_count": 5000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Temple",
+        "Vrindavan",
+        "Prem Mandir",
+        "Marble"
+      ]
+    }
+  },
+  {
+    "id": 73,
+    "name": "Nidhivan",
+    "category": "Spiritual Site",
+    "description": "Sacred grove where Krishna is believed to perform Raas Leela every night. The trees grow in pairs and the tulsi plants remain green year-round.",
+    "location": {
+      "address": "Vrindavan",
+      "city": "Vrindavan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.5782,
+        "lng": 77.6905
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "05:30-17:30"
+      },
+      "avg_visit_duration_minutes": 30,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Medium",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Medium",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": true,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 5,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.5,
+      "review_count": 5000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Spiritual",
+        "Vrindavan",
+        "Raas Leela",
+        "Sacred Grove"
+      ]
+    }
+  },
+  {
+    "id": 74,
+    "name": "Radha Raman Temple",
+    "category": "Hindu Temple",
+    "description": "A 500-year-old temple housing a self-manifested deity of Krishna. One of the most important Vaishnavite temples in Vrindavan.",
+    "location": {
+      "address": "Vrindavan",
+      "city": "Vrindavan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.5799,
+        "lng": 77.6914
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 45,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Medium",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Medium",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 5,
+      "ritual_time_specific": true
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.5,
+      "review_count": 5000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Temple",
+        "Vrindavan",
+        "Radha Raman",
+        "Ancient"
+      ]
+    }
+  },
+  {
+    "id": 75,
+    "name": "Radha Vallabh Temple",
+    "category": "Hindu Temple",
+    "description": "One of the seven original temples of Vrindavan, dedicated to Radha as the supreme deity. Unique because the idol shows only Radha.",
+    "location": {
+      "address": "Vrindavan",
+      "city": "Vrindavan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.5795,
+        "lng": 77.692
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 30,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 4,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.3,
+      "review_count": 4000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Temple",
+        "Vrindavan",
+        "Radha",
+        "Ancient"
+      ]
+    }
+  },
+  {
+    "id": 76,
+    "name": "Seva Kunj",
+    "category": "Spiritual Site",
+    "description": "A sacred garden where Krishna is said to have served Radha. The garden closes at sunset as it's believed divine leelas occur at night.",
+    "location": {
+      "address": "Vrindavan",
+      "city": "Vrindavan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.5777,
+        "lng": 77.691
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "05:30-17:30"
+      },
+      "avg_visit_duration_minutes": 30,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Medium",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Medium",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": true,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual",
+        "Nature"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 4,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.3,
+      "review_count": 4000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Garden",
+        "Vrindavan",
+        "Krishna",
+        "Radha"
+      ]
+    }
+  },
+  {
+    "id": 77,
+    "name": "Kesi Ghat",
+    "category": "Spiritual Site",
+    "description": "An ancient ghat on the Yamuna where Krishna killed the demon horse Kesi. Beautiful for morning walks and evening aarti.",
+    "location": {
+      "address": "Vrindavan",
+      "city": "Vrindavan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.5802,
+        "lng": 77.6944
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 45,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Medium",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Medium",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": true,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual",
+        "Nature"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 4,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.3,
+      "review_count": 4000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Ghat",
+        "Vrindavan",
+        "Yamuna",
+        "Kesi"
+      ]
+    }
+  },
+  {
+    "id": 78,
+    "name": "Rangaji Temple Vrindavan",
+    "category": "Hindu Temple",
+    "description": "A grand temple in South Indian Dravidian style with a 60-foot tall gopuram. Dedicated to Lord Ranganatha (Vishnu).",
+    "location": {
+      "address": "Vrindavan",
+      "city": "Vrindavan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.5815,
+        "lng": 77.6918
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 40,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual",
+        "Heritage"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 3,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.1,
+      "review_count": 3000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Temple",
+        "Vrindavan",
+        "Dravidian",
+        "Vishnu"
+      ]
+    }
+  },
+  {
+    "id": 79,
+    "name": "Vrindavan Chandrodaya Mandir",
+    "category": "Hindu Temple",
+    "description": "An under-construction mega temple complex that will be one of the tallest temples in the world at 210 meters.",
+    "location": {
+      "address": "Vrindavan",
+      "city": "Vrindavan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.5855,
+        "lng": 77.676
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 45,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual",
+        "Heritage"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 3,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.1,
+      "review_count": 3000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Temple",
+        "Vrindavan",
+        "Modern",
+        "Mega"
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "name": "MVT (Meera Vihar Temple) Guest House",
+    "category": "Hotel",
+    "description": "Popular spiritual stay run by ISKCON devotees. Clean, vegetarian food, and close to all major temples.",
+    "location": {
+      "address": "Vrindavan",
+      "city": "Vrindavan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.583,
+        "lng": 77.688
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "24 hours"
+      },
+      "avg_visit_duration_minutes": 0,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 800,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Exploration"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "None",
+      "significance_level": 1,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 3.7,
+      "review_count": 1000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Hotel",
+        "Vrindavan",
+        "ISKCON",
+        "Stay"
+      ]
+    }
+  },
+  {
+    "id": 81,
+    "name": "Govind Dham Restaurant",
+    "category": "Restaurant",
+    "description": "Pure vegetarian restaurant serving authentic North Indian thali, paneer dishes, and fresh rotis. Near Banke Bihari Temple.",
+    "location": {
+      "address": "Vrindavan",
+      "city": "Vrindavan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.5818,
+        "lng": 77.6895
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "08:00-22:00"
+      },
+      "avg_visit_duration_minutes": 40,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 200,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Medium",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Medium",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Food"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "None",
+      "significance_level": 2,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 3.9,
+      "review_count": 2000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Restaurant",
+        "Vrindavan",
+        "Vegetarian",
+        "Thali"
+      ]
+    }
+  },
+  {
+    "id": 82,
+    "name": "Brajwasi Restaurant",
+    "category": "Restaurant",
+    "description": "Popular eatery known for its puri-sabzi, lassi, and South Indian dosa. Budget-friendly and quick service.",
+    "location": {
+      "address": "Vrindavan",
+      "city": "Vrindavan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.5805,
+        "lng": 77.6905
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "07:00-21:00"
+      },
+      "avg_visit_duration_minutes": 30,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 120,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Medium",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Medium",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Food"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "None",
+      "significance_level": 2,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 3.9,
+      "review_count": 2000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Restaurant",
+        "Vrindavan",
+        "Budget",
+        "Quick"
+      ]
+    }
+  },
+  {
+    "id": 83,
+    "name": "Loi Bazaar",
+    "category": "Market",
+    "description": "Vibrant market near Banke Bihari Temple selling tulsi malas, Krishna idols, bangles, and devotional items.",
+    "location": {
+      "address": "Vrindavan",
+      "city": "Vrindavan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.5793,
+        "lng": 77.6925
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 45,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 300,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "High",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "High",
+        "Summer": "Medium",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Shopping",
+        "Exploration"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "None",
+      "significance_level": 2,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 3.9,
+      "review_count": 2000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Market",
+        "Vrindavan",
+        "Shopping",
+        "Souvenirs"
+      ]
+    }
+  },
+  {
+    "id": 84,
+    "name": "Yamuna Boat Ride Vrindavan",
+    "category": "Nature Reserve",
+    "description": "Scenic boat ride on the Yamuna river offering views of ghats and temples. Especially beautiful at sunset.",
+    "location": {
+      "address": "Vrindavan",
+      "city": "Vrindavan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.58,
+        "lng": 77.695
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 40,
+      "best_visit_time": [
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": true,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Nature",
+        "Exploration"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 3,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.1,
+      "review_count": 3000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Boat",
+        "Vrindavan",
+        "Yamuna",
+        "Nature"
+      ]
+    }
+  },
+  {
+    "id": 85,
+    "name": "Radha Rani Temple (Shriji Temple)",
+    "category": "Hindu Temple",
+    "description": "The main temple atop Barsana hill dedicated to Radha Rani. Offers breathtaking panoramic views of the entire Braj region.",
+    "location": {
+      "address": "Barsana",
+      "city": "Barsana",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.6483,
+        "lng": 77.3783
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 90,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "High",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "High",
+        "Summer": "Medium",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": true
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual",
+        "Heritage"
+      ],
+      "physical_intensity_level": "Medium"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 5,
+      "ritual_time_specific": true
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.5,
+      "review_count": 5000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Temple",
+        "Barsana",
+        "Radha",
+        "Hilltop"
+      ]
+    }
+  },
+  {
+    "id": 86,
+    "name": "Lathmar Holi Ground",
+    "category": "Heritage Site",
+    "description": "The famous site where Barsana's Lathmar Holi is celebrated. Women beat men with sticks in this unique festival tradition.",
+    "location": {
+      "address": "Barsana",
+      "city": "Barsana",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.6475,
+        "lng": 77.379
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-18:00"
+      },
+      "avg_visit_duration_minutes": 30,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Heritage",
+        "Exploration"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 4,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.3,
+      "review_count": 4000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Heritage",
+        "Barsana",
+        "Holi",
+        "Festival"
+      ]
+    }
+  },
+  {
+    "id": 87,
+    "name": "Pili Pokhar",
+    "category": "Spiritual Site",
+    "description": "Sacred yellow pond at the base of Barsana hill. Legend says Radha used to play here with her friends.",
+    "location": {
+      "address": "Barsana",
+      "city": "Barsana",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.648,
+        "lng": 77.3775
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 20,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": true,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual",
+        "Nature"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 3,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.1,
+      "review_count": 3000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Pond",
+        "Barsana",
+        "Radha",
+        "Sacred"
+      ]
+    }
+  },
+  {
+    "id": 88,
+    "name": "Rangibihari Temple",
+    "category": "Hindu Temple",
+    "description": "A beautiful temple at the foot of Barsana hill known for its colorful decorations and peaceful atmosphere.",
+    "location": {
+      "address": "Barsana",
+      "city": "Barsana",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.649,
+        "lng": 77.378
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 30,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 3,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.1,
+      "review_count": 3000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Temple",
+        "Barsana",
+        "Krishna"
+      ]
+    }
+  },
+  {
+    "id": 89,
+    "name": "Maan Garh",
+    "category": "Heritage Site",
+    "description": "Hill fort ruins where Radha would pretend to be angry (maan) with Krishna. Offers spectacular views at sunset.",
+    "location": {
+      "address": "Barsana",
+      "city": "Barsana",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.6488,
+        "lng": 77.377
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 40,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": true,
+      "avoid_in_extreme_heat": true
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Heritage",
+        "Nature"
+      ],
+      "physical_intensity_level": "Medium"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 3,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.1,
+      "review_count": 3000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Fort",
+        "Barsana",
+        "Radha",
+        "Views"
+      ]
+    }
+  },
+  {
+    "id": 90,
+    "name": "Daan Bihari Temple",
+    "category": "Hindu Temple",
+    "description": "Temple marking the spot where Krishna would tease the gopis and demand toll (daan) for passing. Part of the Radha-Krishna leela.",
+    "location": {
+      "address": "Barsana",
+      "city": "Barsana",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.647,
+        "lng": 77.3795
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 30,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 3,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.1,
+      "review_count": 3000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Temple",
+        "Barsana",
+        "Krishna",
+        "Leela"
+      ]
+    }
+  },
+  {
+    "id": 91,
+    "name": "Bhanukhar (Vrishbhanu Kund)",
+    "category": "Spiritual Site",
+    "description": "The birthplace of Radha Rani, marked by a sacred kund (pond). King Vrishbhanu found baby Radha on a lotus here.",
+    "location": {
+      "address": "Barsana",
+      "city": "Barsana",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.6465,
+        "lng": 77.381
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 30,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 5,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.5,
+      "review_count": 5000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Kund",
+        "Barsana",
+        "Radha",
+        "Birthplace"
+      ]
+    }
+  },
+  {
+    "id": 92,
+    "name": "Barsana View Point",
+    "category": "Nature Reserve",
+    "description": "Scenic viewpoint atop the Barsana hills offering 360-degree views of the Braj countryside and green valleys.",
+    "location": {
+      "address": "Barsana",
+      "city": "Barsana",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.6495,
+        "lng": 77.3765
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 30,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": true,
+      "avoid_in_extreme_heat": true
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Nature",
+        "Exploration"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 2,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 3.9,
+      "review_count": 2000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Viewpoint",
+        "Barsana",
+        "Nature",
+        "Panoramic"
+      ]
+    }
+  },
+  {
+    "id": 93,
+    "name": "Radha Rani Bhojanalaya",
+    "category": "Restaurant",
+    "description": "Simple vegetarian restaurant near the temple serving fresh rotis, sabzi, dal-chawal, and lassi. Affordable pilgrim food.",
+    "location": {
+      "address": "Barsana",
+      "city": "Barsana",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.6468,
+        "lng": 77.38
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "08:00-20:00"
+      },
+      "avg_visit_duration_minutes": 30,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 80,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Food"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "None",
+      "significance_level": 1,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 3.7,
+      "review_count": 1000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Restaurant",
+        "Barsana",
+        "Vegetarian",
+        "Budget"
+      ]
+    }
+  },
+  {
+    "id": 94,
+    "name": "Priya Kund",
+    "category": "Spiritual Site",
+    "description": "Ancient sacred kund where Radha and her sakhis would bathe. Surrounded by old trees and a peaceful atmosphere.",
+    "location": {
+      "address": "Barsana",
+      "city": "Barsana",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.646,
+        "lng": 77.3805
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 20,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual",
+        "Nature"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 3,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.1,
+      "review_count": 3000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Kund",
+        "Barsana",
+        "Radha",
+        "Sacred"
+      ]
+    }
+  },
+  {
+    "id": 95,
+    "name": "Nand Bhawan",
+    "category": "Hindu Temple",
+    "description": "The house of Nanda Baba where Krishna grew up. Features beautiful paintings and murals depicting Krishna's childhood leelas.",
+    "location": {
+      "address": "Gokul",
+      "city": "Gokul",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.439,
+        "lng": 77.716
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 60,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Medium",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Medium",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual",
+        "Heritage"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 5,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.5,
+      "review_count": 5000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Temple",
+        "Gokul",
+        "Krishna",
+        "Nanda"
+      ]
+    }
+  },
+  {
+    "id": 96,
+    "name": "Raman Reti",
+    "category": "Spiritual Site",
+    "description": "Sacred sandy ground where little Krishna played and rolled in the dust. Pilgrims apply this sand on their foreheads.",
+    "location": {
+      "address": "Gokul",
+      "city": "Gokul",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.4375,
+        "lng": 77.7145
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 30,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": true,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 4,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.3,
+      "review_count": 4000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Spiritual",
+        "Gokul",
+        "Krishna",
+        "Sacred"
+      ]
+    }
+  },
+  {
+    "id": 97,
+    "name": "Brahmand Ghat",
+    "category": "Spiritual Site",
+    "description": "The ghat on the Yamuna where mother Yashoda saw the entire universe in baby Krishna's mouth. Deeply spiritual site.",
+    "location": {
+      "address": "Gokul",
+      "city": "Gokul",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.4395,
+        "lng": 77.717
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 40,
+      "best_visit_time": [
+        "Morning"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": true,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual",
+        "Nature"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 5,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.5,
+      "review_count": 5000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Ghat",
+        "Gokul",
+        "Krishna",
+        "Yamuna"
+      ]
+    }
+  },
+  {
+    "id": 98,
+    "name": "Chintaharan Mahadev Temple",
+    "category": "Hindu Temple",
+    "description": "Ancient Shiva temple believed to remove all worries (chinta). Nanda Baba is said to have worshipped here for Krishna's protection.",
+    "location": {
+      "address": "Gokul",
+      "city": "Gokul",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.4385,
+        "lng": 77.7155
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 30,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 3,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.1,
+      "review_count": 3000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Temple",
+        "Gokul",
+        "Shiva",
+        "Ancient"
+      ]
+    }
+  },
+  {
+    "id": 99,
+    "name": "Yashodanandan Temple",
+    "category": "Hindu Temple",
+    "description": "Temple celebrating the mother-son bond of Yashoda and Krishna. Features a beautiful idol of baby Krishna with butter.",
+    "location": {
+      "address": "Gokul",
+      "city": "Gokul",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.4388,
+        "lng": 77.7162
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 30,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 3,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.1,
+      "review_count": 3000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Temple",
+        "Gokul",
+        "Krishna",
+        "Yashoda"
+      ]
+    }
+  },
+  {
+    "id": 100,
+    "name": "Thakurani Ghat",
+    "category": "Spiritual Site",
+    "description": "A serene ghat on the Yamuna perfect for meditation. Less crowded than Mathura ghats with beautiful sunrise views.",
+    "location": {
+      "address": "Gokul",
+      "city": "Gokul",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.4398,
+        "lng": 77.7175
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 30,
+      "best_visit_time": [
+        "Morning"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": true,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual",
+        "Nature"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 3,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.1,
+      "review_count": 3000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Ghat",
+        "Gokul",
+        "Yamuna",
+        "Meditation"
+      ]
+    }
+  },
+  {
+    "id": 101,
+    "name": "Gokulnath Temple",
+    "category": "Hindu Temple",
+    "description": "A Pushti Marg temple established by Vallabhacharya. Important pilgrimage site for Vaishnavites.",
+    "location": {
+      "address": "Gokul",
+      "city": "Gokul",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.4382,
+        "lng": 77.7148
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 30,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 3,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.1,
+      "review_count": 3000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Temple",
+        "Gokul",
+        "Vallabhacharya",
+        "Pushti Marg"
+      ]
+    }
+  },
+  {
+    "id": 102,
+    "name": "Gokul Barrage",
+    "category": "Nature Reserve",
+    "description": "A scenic dam on the Yamuna offering beautiful views and a peaceful picnic spot. Good for families and photography.",
+    "location": {
+      "address": "Gokul",
+      "city": "Gokul",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.435,
+        "lng": 77.72
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 45,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": true,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Nature",
+        "Exploration"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 2,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 3.9,
+      "review_count": 2000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Nature",
+        "Gokul",
+        "Yamuna",
+        "Barrage"
+      ]
+    }
+  },
+  {
+    "id": 103,
+    "name": "Gokul Dham Bhojanalaya",
+    "category": "Restaurant",
+    "description": "Simple pilgrim restaurant serving fresh sattvic food — rotis, dal, sabzi, and buttermilk. Clean and affordable.",
+    "location": {
+      "address": "Gokul",
+      "city": "Gokul",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.4383,
+        "lng": 77.715
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "08:00-20:00"
+      },
+      "avg_visit_duration_minutes": 30,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 70,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Food"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "None",
+      "significance_level": 1,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 3.7,
+      "review_count": 1000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Restaurant",
+        "Gokul",
+        "Vegetarian",
+        "Budget"
+      ]
+    }
+  },
+  {
+    "id": 104,
+    "name": "Chaurasi Khamba (84 Pillars)",
+    "category": "Heritage Site",
+    "description": "An ancient structure with 84 pillars believed to be from the Mughal era. Each pillar has unique carvings.",
+    "location": {
+      "address": "Gokul",
+      "city": "Gokul",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.4392,
+        "lng": 77.7158
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 20,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Heritage",
+        "Exploration"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 2,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 3.9,
+      "review_count": 2000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Heritage",
+        "Gokul",
+        "Ancient",
+        "Pillars"
+      ]
+    }
+  },
+  {
+    "id": 105,
+    "name": "Govardhan Hill (Giriraj)",
+    "category": "Spiritual Site",
+    "description": "The sacred hill that Lord Krishna lifted on his little finger for 7 days to protect the villagers from Indra's rain. Pilgrims do the 21 km parikrama.",
+    "location": {
+      "address": "Govardhan",
+      "city": "Govardhan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.4936,
+        "lng": 77.4627
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 180,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "High",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "High",
+        "Summer": "Medium",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": true,
+      "avoid_in_extreme_heat": true
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual",
+        "Nature"
+      ],
+      "physical_intensity_level": "High"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 5,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.5,
+      "review_count": 5000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Hill",
+        "Govardhan",
+        "Krishna",
+        "Parikrama"
+      ]
+    }
+  },
+  {
+    "id": 106,
+    "name": "Manasi Ganga",
+    "category": "Spiritual Site",
+    "description": "A sacred lake created by Krishna's mind (manas). Pilgrims do parikrama of this lake during festivals.",
+    "location": {
+      "address": "Govardhan",
+      "city": "Govardhan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.4988,
+        "lng": 77.4636
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 45,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Medium",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Medium",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": true,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual",
+        "Nature"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 4,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.3,
+      "review_count": 4000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Lake",
+        "Govardhan",
+        "Krishna",
+        "Sacred"
+      ]
+    }
+  },
+  {
+    "id": 107,
+    "name": "Daan Ghati Temple",
+    "category": "Hindu Temple",
+    "description": "The first major stop on the Govardhan Parikrama route. Krishna collected toll (daan) from gopis here.",
+    "location": {
+      "address": "Govardhan",
+      "city": "Govardhan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.496,
+        "lng": 77.4625
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 30,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Medium",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Medium",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 4,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.3,
+      "review_count": 4000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Temple",
+        "Govardhan",
+        "Krishna",
+        "Parikrama"
+      ]
+    }
+  },
+  {
+    "id": 108,
+    "name": "Mukharvind Temple",
+    "category": "Hindu Temple",
+    "description": "Temple at the 'face' of Govardhan Hill. The hill's natural rock formation here resembles the face of Lord Krishna.",
+    "location": {
+      "address": "Govardhan",
+      "city": "Govardhan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.4954,
+        "lng": 77.463
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 30,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Medium",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Medium",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 4,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.3,
+      "review_count": 4000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Temple",
+        "Govardhan",
+        "Krishna",
+        "Rock"
+      ]
+    }
+  },
+  {
+    "id": 109,
+    "name": "Radha Kund",
+    "category": "Spiritual Site",
+    "description": "The holiest bathing spot in Vrindavan-Braj region, even more sacred than the Ganges according to Chaitanya Mahaprabhu.",
+    "location": {
+      "address": "Govardhan",
+      "city": "Govardhan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.515,
+        "lng": 77.453
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 45,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Medium",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Medium",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": true,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 5,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.5,
+      "review_count": 5000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Kund",
+        "Govardhan",
+        "Radha",
+        "Sacred"
+      ]
+    }
+  },
+  {
+    "id": 110,
+    "name": "Shyam Kund",
+    "category": "Spiritual Site",
+    "description": "Sacred kund adjacent to Radha Kund. Created by Krishna to match Radha's kund. They are considered the eyes of Govardhan.",
+    "location": {
+      "address": "Govardhan",
+      "city": "Govardhan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.5155,
+        "lng": 77.4535
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 30,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Medium",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Medium",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": true,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 4,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.3,
+      "review_count": 4000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Kund",
+        "Govardhan",
+        "Krishna",
+        "Sacred"
+      ]
+    }
+  },
+  {
+    "id": 111,
+    "name": "Harideva Temple",
+    "category": "Hindu Temple",
+    "description": "A grand red sandstone temple, one of the original temples of Braj. Features stunning Mughal-era architecture.",
+    "location": {
+      "address": "Govardhan",
+      "city": "Govardhan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.498,
+        "lng": 77.464
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 40,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual",
+        "Heritage"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 4,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.3,
+      "review_count": 4000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Temple",
+        "Govardhan",
+        "Heritage",
+        "Architecture"
+      ]
+    }
+  },
+  {
+    "id": 112,
+    "name": "Jatipura",
+    "category": "Spiritual Site",
+    "description": "The starting point of the Govardhan Parikrama. Pilgrims begin their 21 km walk around the hill from here.",
+    "location": {
+      "address": "Govardhan",
+      "city": "Govardhan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.49,
+        "lng": 77.461
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 30,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "High",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "High",
+        "Summer": "Medium",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual",
+        "Exploration"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 3,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.1,
+      "review_count": 3000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Parikrama",
+        "Govardhan",
+        "Start Point"
+      ]
+    }
+  },
+  {
+    "id": 113,
+    "name": "Govardhan Annakshetra",
+    "category": "Restaurant",
+    "description": "Free community kitchen (langar) near the parikrama route serving dal, roti, and rice to all pilgrims. Also has paid thali.",
+    "location": {
+      "address": "Govardhan",
+      "city": "Govardhan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.497,
+        "lng": 77.4635
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "07:00-20:00"
+      },
+      "avg_visit_duration_minutes": 30,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 0,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Medium",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Medium",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": true,
+      "is_outdoor": false,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Food"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "None",
+      "significance_level": 2,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 3.9,
+      "review_count": 2000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Restaurant",
+        "Govardhan",
+        "Langar",
+        "Free"
+      ]
+    }
+  },
+  {
+    "id": 114,
+    "name": "Punchari Ka Lautha",
+    "category": "Heritage Site",
+    "description": "Ancient spot where Krishna's footprints are imprinted on the rock. Pilgrims come to touch and worship these marks.",
+    "location": {
+      "address": "Govardhan",
+      "city": "Govardhan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "coordinates": {
+        "lat": 27.4945,
+        "lng": 77.462
+      }
+    },
+    "operational_info": {
+      "opening_hours": {
+        "daily": "06:00-20:00"
+      },
+      "avg_visit_duration_minutes": 20,
+      "best_visit_time": [
+        "Morning",
+        "Evening"
+      ],
+      "peak_hours": [
+        "10:00-13:00"
+      ],
+      "closed_on": []
+    },
+    "pricing": {
+      "entry_fee": {
+        "Indians": 0,
+        "Foreigners": 0,
+        "Children": 0
+      },
+      "avg_additional_expense": 100,
+      "booking_url": null
+    },
+    "crowd_data": {
+      "base_crowd_level": "Low",
+      "weekend_multiplier": 1.3,
+      "festival_multiplier": 1.5,
+      "seasonal_variation": {
+        "Winter": "Low",
+        "Summer": "Low",
+        "Monsoon": "Low"
+      }
+    },
+    "weather_sensitivity": {
+      "is_indoor": false,
+      "is_outdoor": true,
+      "avoid_in_rain": false,
+      "avoid_in_extreme_heat": false
+    },
+    "visitor_profile_fit": {
+      "senior_friendly": true,
+      "wheelchair_accessible": false,
+      "child_friendly": true,
+      "recommended_for": [
+        "Spiritual",
+        "Heritage"
+      ],
+      "physical_intensity_level": "Low"
+    },
+    "facilities": {
+      "restrooms": true,
+      "parking": true,
+      "food_available": true,
+      "guided_tours": false,
+      "locker_facility": false
+    },
+    "spiritual_metadata": {
+      "religion": "Hindu",
+      "significance_level": 3,
+      "ritual_time_specific": false
+    },
+    "nearby_context": {
+      "transport_hub_nearby": true,
+      "market_nearby": true,
+      "recommended_buffer_time_minutes": 15
+    },
+    "ratings": {
+      "overall_rating": 4.1,
+      "review_count": 3000
+    },
+    "embedding_metadata": {
+      "tags": [
+        "Heritage",
+        "Govardhan",
+        "Krishna",
+        "Footprints"
       ]
     }
   }

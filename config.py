@@ -15,7 +15,7 @@ GOOGLE_API_KEY = os.environ.get(
 )
 
 # Set to False to use free Haversine-based distance instead of Google Maps API
-USE_GOOGLE_MAPS = False
+USE_GOOGLE_MAPS = True
 
 # ─── Data Paths ───
 DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
